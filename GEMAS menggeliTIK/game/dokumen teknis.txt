@@ -1,0 +1,26 @@
+Game ini dalam bentuk .rar sehingga game harus diekstrak terlebih dahulu sebelum bisa dimainkan. Aplikasi adalah ikon yang berjudul wayang nusantara dewaruci.
+
+Game ini bergenre Puzzle RPG sehingga player harus mengeksplorasi dunia.
+
+Untuk memulai cerita, player harus menemui guru drona terlebih dahulu (NPC pada awal game).
+
+saat mengeksplorasi dunia player dapat menggunakan tombol WASD untuk bergerak dan player dapat menemui monster. Saat player mendekati monster maka akan berlanjut ke battle puzzle kartu.
+
+Dalam puzzle kartu ini terdapat 2 giliran yaitu giliran player dan giliran musuh. pada giliran player, payer akan memberikan damage ke musuh dan pada giliran musuh maka player akan bertahan dari serangan musuh.
+
+dalam battle, player akan diberikan angka target dan player diharuskan mengoperasikan angka dan operasi yang tersedia hingga mendekati angka target.
+
+pada giliran player, player akan memberikan damage pada musuh. Semakin hasil operasi mendekati angka target, maka damage yang diberikan ke musuh akan semakin besar.
+
+pada giliran musuh, player akan menahan damage dari musuh. semakin hasil operasi mendekati angka target, maka damage yang diterima player akan semakin kecil.
+
+untuk menyerang musuh player dapat menekan tombol serang ketika setidaknya ada 1 operasi yang dimainkan(2 kartu angka dan 1 operasi). jadi player tidak harus menggunakan semua operasi yang tersedia.
+
+operasi akan urut dari sebalah kiri (perkalian tidak didahulukan untuk mempermudah perhitungan oleh player).
+
+health dan damage setiap musuh dengan jenis yang berbeda juga akan berbeda - beda.
+
+karena game ini dalam fase pengembangan maka saat battle selesai, health player dan tempat player akan kembali ke posisi awal game.
+
+Dunia pada game ini cukup luas, jadi selamat berpetualang.
+
